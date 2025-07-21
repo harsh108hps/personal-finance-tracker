@@ -4,7 +4,8 @@ This is the **frontend** of the Personal Finance Tracker built with **React.js +
 
 ## 🌐 Live Deployment
 
-🔗 Frontend: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
+🔗 Frontend: [https://personal-finance-tracker-15o8.vercel.app/](VERCEL)
+🔗 Backend : [https://finteck-backend-tx88.onrender.com](RENDER)
 
 📺 Demo Video: [Watch Demo on YouTube](https://youtu.be/your-demo-video-link)
 
