@@ -1,0 +1,14 @@
+{
+  "dashboard": "Dashboard",
+  "total_income": "Total Income",
+  "total_expenses": "Total Expenses",
+  "savings": "Savings",
+  "view_all": "View All",
+  "track_income": "Track Income",
+  "track_expense": "Track Expense",
+  "recent_transactions": "Recent Transactions",
+  "date": "Date",
+  "type": "Type",
+  "category": "Category",
+  "amount": "Amount"
+}

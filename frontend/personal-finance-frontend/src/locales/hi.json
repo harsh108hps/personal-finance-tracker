@@ -1,0 +1,14 @@
+{
+  "dashboard": "डैशबोर्ड",
+  "total_income": "कुल आय",
+  "total_expenses": "कुल खर्च",
+  "savings": "बचत",
+  "view_all": "सभी देखें",
+  "track_income": "आय ट्रैक करें",
+  "track_expense": "खर्च ट्रैक करें",
+  "recent_transactions": "हाल के लेनदेन",
+  "date": "तारीख",
+  "type": "प्रकार",
+  "category": "श्रेणी",
+  "amount": "राशि"
+}

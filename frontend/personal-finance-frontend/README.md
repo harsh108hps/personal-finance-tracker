@@ -1,12 +1,45 @@
-# React + Vite
+# 💸 Personal Finance Tracker - Frontend (FinTech App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **frontend** of the Personal Finance Tracker built with **React.js + Vite**, styled with **TailwindCSS**, and powered by **MERN stack** APIs. It helps users manage their finances, track savings goals, view insights, and stay on top of their expenses.
 
-Currently, two official plugins are available:
+## 🌐 Live Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Frontend: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
 
-## Expanding the ESLint configuration
+📺 Demo Video: [Watch Demo on YouTube](https://youtu.be/your-demo-video-link)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Key Features
+
+- ✅ User Authentication (Login/Register)
+- 💰 Add, Edit & Delete Transactions
+- 📊 Monthly Spending Breakdown (Charts)
+- 🧠 AI-powered Financial Insights (OpenAI API)
+- 🏦 Set & Track Savings Goals
+- 🔁 Recurring Transactions (via backend)
+- 🗃️ Categorized Spending History
+- 🌍 Multi-language Support
+- 🔐 JWT-based session handling
+- 📱 Responsive and Mobile-friendly UI
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** + **Vite**
+- **TailwindCSS**
+- **React Router DOM**
+- **Chart.js**
+- **Axios**
+- **Context API**
+- **OpenAI API Integration**
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/yourusername/fintech-tracker.git
+cd fintech-tracker/frontend
